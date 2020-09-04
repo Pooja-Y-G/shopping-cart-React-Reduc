@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Green",
+      "description": "This dress looks gorgeous and suits to everyone of young and old",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "dress1.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "Pink",
+      "description": "This dress looks gorgeous and suits to everyone of young and old",
+      "keywords": [
+        "action figure",
+        "toy story",
+        "posable",
+        "requires batteries"
+      ],
+      "image": "dress2.jpg",
+      "age": ["3", "10"],
+      "price": 38.5
+    },
+    {
+      "id": 3,
+      "name": "Red",
+      "description": "This dress looks gorgeous and suits to everyone of young and old",
+      "keywords": ["stuffed", "plush", "minions", "Despicable Me"],
+      "image": "dress4.jpg",
+      "age": ["0", "10"],
+      "price": 12.99
+    },
+    {
+      "id": 4,
+      "name": "Maroon",
+      "description": "This dress looks gorgeous and suits to everyone of young and old",
+      "keywords": ["stuffed", "plush", "minions", "Despicable Me"],
+      "image": "dress5.jpg",
+      "age": ["0", "10"],
+      "price": 12.99
+    },
+    {
+      "id": 5,
+      "name": "PlaneRed",
+      "description": "This dress looks gorgeous and suits to everyone of young and old",
+      "keywords": ["stuffed", "plush", "minions", "Despicable Me"],
+      "image": "dress6.jpg",
+      "age": ["0", "10"],
+      "price": 12.99
+    },
+    {
+      "id": 5,
+      "name": "Blue",
+      "description": "This dress looks gorgeous and suits to everyone of young and old",
+      "keywords": ["stuffed", "plush", "minions", "Despicable Me"],
+      "image": "dress7.jpg",
+      "age": ["0", "10"],
+      "price": 12.99
+    }
+  ]
+}

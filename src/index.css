@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width: 100%;
+  background-color: skyblue;
+}
+
+.page-container {
+  width: 800px;
+  margin: 10px auto; /*gives eqlay margin at left and right */
+  background-color: white;
+  padding: 30px;
+}
+
+.product-listing {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.product-listing .product-list-item {
+  padding: 10px 30px;
+  width: 240px;
+}
+
+.ulist {
+  list-style: none;
+  display: inline-flex;
+  background-color: salmon;
+  width: 90%;
+}
+
+.list {
+  width: 280px;
+  padding: 2px;
+  margin: 8px;
+  text-align: center;
+  background-color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.navlist {
+  text-decoration: none;
+}
